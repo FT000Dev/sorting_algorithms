@@ -1,4 +1,3 @@
-tests
 #include "sort.h"
 
 int get_max(int *array, int size);
